@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "df013bb44ff5be71",
+    "type": "split",
+    "children": [
+      {
+        "id": "685ec7478a89be7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d59de03aee539e9d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Template.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "67eac78767e247b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/treeset.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3998ff18f291e240",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f653905975a04fd6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4c8e1624d59c3e73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8bb403e7427a5a30",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5380e3b5089bcbfd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a77016d3e78f6f20",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e06c481de486f15",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/treeset.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f49b950200889eff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/treeset.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d11f2f3760be6b06",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/treeset.md"
+          }
+        }
+      },
+      {
+        "id": "9abc6b9d7821266d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "67eac78767e247b7",
+  "lastOpenFiles": [
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-17 21.05.48.excalidraw.md",
+    "Excalidraw/treeset.md",
+    "Excalidraw/Drawing 2024-01-17 21.00.20.excalidraw.md",
+    "Excalidraw/计算.md",
+    "未命名 1.md",
+    "二叉树.md",
+    "Pasted image 20240117133339.png",
+    "Set interface HashSet Class.md",
+    "daily/2024-01-17.md",
+    "Pasted image 20240117142133.png",
+    "哈希表 hash table.md",
+    "LinkedHashSet原理.md",
+    "未命名.md",
+    "TreeSet.md",
+    "javase/java基础.md",
+    "Set interface.md",
+    "Apple Notes",
+    "Collection interface.md",
+    "Stream.md",
+    "zsh.md",
+    "命令.md",
+    "Pasted image 20240115020059.png",
+    "Pasted image 20240115020249.png",
+    "daily/作息.md",
+    "idea.md",
+    "brew.md",
+    "电脑配件.md",
+    "lambda表达式.md",
+    "2024-01-12.md",
+    "健康.md",
+    "java-mosh",
+    "未命名",
+    "calender",
+    "未命名.canvas",
+    "Excalidraw"
+  ]
+}

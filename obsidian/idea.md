@@ -1,0 +1,1 @@
+idea找不到隐藏文件要手动 [mac IDEA看不到隐藏文件/文件夹的解决办法 - 简书](https://www.jianshu.com/p/dff6b6ef6614)

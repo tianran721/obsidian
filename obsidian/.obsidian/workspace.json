@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "2b53aa97d05b8bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "edafa2143a804d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3a3de1c18c18e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git collaboration.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3b6fff6d2ab804e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d1346c33b49f85a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17528ff41e3b1d7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "712a7eb179d874b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git collaboration.md"
+              }
+            }
+          },
+          {
+            "id": "b5e3ee677bc61b2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "54d1c2fc055e513a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "dbef6d30640a7c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1716c98c97d02bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463415d17252fd7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git collaboration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a3fac1d07bb330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-01-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80fa33b257405e56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git collaboration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce3b850344de1000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d82f75acb8dfe79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1770b2d7b42854cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b762edd34a67007",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "workspaces:管理工作区布局": false,
+      "omnisearch:Omnisearch": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "5c3a3de1c18c18e0",
+  "lastOpenFiles": [
+    "HTML CSS 2.md",
+    "电脑配件.md",
+    "idea 2.md",
+    "zsh 2.md",
+    "命令 2.md",
+    "电脑配件 2.md",
+    "git collaboration.md",
+    "git outline.md",
+    "git config.md",
+    "Collection Interface.md",
+    "Collection traverse.md",
+    "Excalidraw/计算.md",
+    "Excalidraw/Drawing 2024-01-17 21.00.20.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/treeset.md",
+    "Excalidraw/Drawing 2024-01-17 21.05.48.excalidraw.md",
+    "HTML CSS project.md",
+    "CSS 伪类.md",
+    "vscode extension.md",
+    "vscode git.md",
+    "daily/2024-01-20.md",
+    "echo.md",
+    "Database key.md",
+    "git branch.md",
+    "Rust install.md",
+    "python.md",
+    "Pasted image 20240119195910.png",
+    "Pasted image 20240119195909.png",
+    "Pasted image 20240119184217.png",
+    "Pasted image 20240119181457.png",
+    "Pasted image 20240119181057.png",
+    "Pasted image 20240119173626.png",
+    "Pasted image 20240119173625.png",
+    "Pasted image 20240119172057.png",
+    "未命名.canvas",
+    "Git Cheat Sheet.pdf",
+    "pdf",
+    "Pasted image 20240119143027.png",
+    "Pasted image 20240119143014.png",
+    "Apple Notes",
+    "Apple Notes/iCloud/java",
+    "Apple Notes/我的Mac上",
+    "Apple Notes/iCloud/导入的备忘录",
+    "Apple Notes/iCloud/Stickies-Export-53D340F9-5392-4E79-922A-02E69E1BAE7F.stickiesappexport",
+    "Apple Notes/iCloud/Stickies-Export-AE94026C-B2B7-4671-B53E-052C59ECA08D.stickiesappexport",
+    "Apple Notes/iCloud/Stickies-Export-F10F539A-C5C2-4A83-B8AD-30A47AF63676.stickiesappexport",
+    "Apple Notes/iCloud/紫色",
+    "Excalidraw/未命名.canvas"
+  ]
+}

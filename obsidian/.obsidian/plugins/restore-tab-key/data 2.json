@@ -1,0 +1,21 @@
+{
+  "activateOnlyOnCodeBlocks": true,
+  "indentsIfSelection": true,
+  "indentsIfSelectionOnlyForMultipleLines": true,
+  "useSpaces": false,
+  "alignSpaces": true,
+  "useHardSpace": false,
+  "spacesCount": 2,
+  "allowException": false,
+  "exceptionRegex": "^[\\s ]*(-|\\d+\\.)( \\[ \\])?\\s*$",
+  "useAdvancedTables": false,
+  "obsidianTableEditor": false,
+  "useOutlinerBetterTab": false,
+  "hotkey": "Tab",
+  "language": "auto",
+  "developerMode": false,
+  "enableBracesAutoIndent": true,
+  "braceRegex": "[{[(\"'`]$",
+  "braceRegexOutsideCodeBlocks": "[{[(\"'`]$",
+  "indentCharacters": " \t"
+}
